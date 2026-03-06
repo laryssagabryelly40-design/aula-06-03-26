@@ -1,2 +1,2 @@
 # aula-06-03-26
-trabalhando com gith
+## introducao aos comandos do git trabalhando com gith
